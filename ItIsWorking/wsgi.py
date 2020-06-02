@@ -1,5 +1,5 @@
 """
-WSGI config for thehackedaccount project.
+WSGI config for coderme project.
 
 It exposes the WSGI callable as a module-level variable named ``application``.
 
